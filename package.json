@@ -1,12 +1,16 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-on-heroku",
+  "description": "Gatsby Heroku example",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Mickey Reiss <mickeyreiss@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.102",
     "gatsby-link": "^1.6.24",
     "gatsby-plugin-react-helmet": "^1.0.8"
+  },
+  "engines": {
+    "node": "^8.0.0",
+    "yarn": "^1.2.1"
   },
   "keywords": [
     "gatsby"
